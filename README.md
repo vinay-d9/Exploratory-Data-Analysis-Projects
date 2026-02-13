@@ -1,16 +1,16 @@
 # 📊 Exploratory Data Analysis Projects
 
 ## 1️⃣ Google Play Store
-Short description + key insights
+Performed data cleaning, feature engineering, and detailed EDA to analyze app ratings, installs, pricing trends, and category distributions.
 
 ## 2️⃣ Red Wine Dataset
-Short description
+Explored physicochemical properties of wine and analyzed their relationship with wine quality using statistical and visual techniques.
 
 ## 3️⃣ Flight Price Dataset
-Short description
+Performed feature engineering on date-time features and analyzed factors affecting flight prices.
 
 ## 4️⃣ Chronic Kidney Disease Dataset
-Short description
+Cleaned medical data, handled missing values, encoded categorical variables, and explored health indicators related to disease prediction.
 
 ---
 # 📊 EDA - 1 (Google Play Store Data)
