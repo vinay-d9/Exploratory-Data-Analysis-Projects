@@ -1,3 +1,18 @@
+# 📊 Exploratory Data Analysis Projects
+
+## 1️⃣ Google Play Store
+Short description + key insights
+
+## 2️⃣ Red Wine Dataset
+Short description
+
+## 3️⃣ Flight Price Dataset
+Short description
+
+## 4️⃣ Chronic Kidney Disease Dataset
+Short description
+
+---
 # 📊 EDA - 1 (Google Play Store Data)
 
 Welcome to my first Exploratory Data Analysis (EDA) project! In this notebook, I have performed a detailed EDA on the **Google Play Store dataset**, uncovering key insights and cleaning the data for further machine learning tasks.
